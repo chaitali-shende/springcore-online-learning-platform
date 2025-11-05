@@ -62,18 +62,31 @@ com.cs.onlinelearning
 🎓 Welcome to Online Learning Courses
 ==========================================
 
+
 ===== Course Enrollment =====
+
 Enrolled in:: Java Programming
+
 Delivered via:: Live Online
+
 ---------------------------------------
+
 ===== Course Enrollment =====
+
 Enrolled in:: Python for Beginners
+
 Delivered via:: Recorded Video
+
 ---------------------------------------
+
 ===== Course Enrollment =====
+
 Enrolled in:: Data Science with ML
+
 Delivered via:: In-Person Classroom
+
 ---------------------------------------
+
 🏁 Thank you for learning with us!
 Keep exploring, keep growing! 🌱
 
